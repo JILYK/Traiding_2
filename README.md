@@ -3,7 +3,7 @@
 This app provides a dual experience with two primary modes: **"Predict the Chart"** and **"Education Mode"**. Users can engage in a simulated trading experience or learn about trading concepts through articles, videos, and quizzes. The app is designed to be both informative and interactive, making it ideal for users looking to improve their trading knowledge and skills.
 
 ##
-![Start Menu](start_menu_screenshot.png)
+![Start Menu](start_menu_screenshot.jpg)
 
 ## Features
 
